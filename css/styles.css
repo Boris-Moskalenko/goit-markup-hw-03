@@ -189,7 +189,7 @@ img {
 }
 .team-item {
     background-color: #ffffff;
-    calc((100% - 3 * 24px) / 4);
+    width: ((100% - 3 * 24px) / 4);
     border-radius: 0 0 4px 4px;
     box-shadow: 
      0 2px 1px 0 rgba(46, 47, 66, 0.08),
@@ -200,7 +200,7 @@ img {
 
 }
 .team-subtitle-conteiner {
-: 32px 16px;
+padding: 32px 16px;
 }
 .team-subtitle {
 padding-bottom: 8px;
